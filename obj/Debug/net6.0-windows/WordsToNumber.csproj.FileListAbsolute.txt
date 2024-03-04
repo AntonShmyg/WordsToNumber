@@ -1,0 +1,17 @@
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.csproj.AssemblyReference.cache
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.Form1.resources
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.csproj.GenerateResource.cache
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.AssemblyInfoInputs.cache
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.AssemblyInfo.cs
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.csproj.CoreCompileInputs.cache
+C:\Progs\MiSKPO_1\WordsToNumber\bin\Debug\net6.0-windows\WordsToNumber.exe
+C:\Progs\MiSKPO_1\WordsToNumber\bin\Debug\net6.0-windows\WordsToNumber.deps.json
+C:\Progs\MiSKPO_1\WordsToNumber\bin\Debug\net6.0-windows\WordsToNumber.runtimeconfig.json
+C:\Progs\MiSKPO_1\WordsToNumber\bin\Debug\net6.0-windows\WordsToNumber.dll
+C:\Progs\MiSKPO_1\WordsToNumber\bin\Debug\net6.0-windows\WordsToNumber.pdb
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.dll
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\refint\WordsToNumber.dll
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.pdb
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\WordsToNumber.genruntimeconfig.cache
+C:\Progs\MiSKPO_1\WordsToNumber\obj\Debug\net6.0-windows\ref\WordsToNumber.dll
